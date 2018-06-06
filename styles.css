@@ -1,0 +1,52 @@
+body {
+	background: linear-gradient( white, #edffdd );
+}
+
+.reference {
+	text-align: left;
+	position: fixed;
+	bottom: 0;
+	right: 5px;
+	font-size: 10px;
+}
+
+.color {
+	background-color: #edffdd;
+}
+
+.center {
+	text-align: center;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+#rer {
+	height: 100px;
+	width: 200px;
+}
+
+#valvoline {
+	height: 100px;
+	width: 100px;
+}
+
+#hamilton {
+	height: 100px;
+	width: 105px;
+}
+
+#uic {
+	height: 100px;
+	width: 100px;
+}
+
+#timer {
+	height:600;
+	width:1200;
+}
+
+.padding_0 {
+	padding: 0 0 0 0;
+}
